@@ -1,3 +1,7 @@
+# Important Note to Troubleshooters
+
+We are using the React client in `./client/react`
+
 # Simple Chatbot
 
 <img src="image.png" width="420px">
